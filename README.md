@@ -6,7 +6,9 @@ final project of capstone where a classification model for the most frequent com
 
 I highly recommend you have a Nvidia or other high performance GPU.
 
-## Issue
+## Issues
+
+ingestion of dataset fromsite may take a while +5 min.
 
 may stall indefinately due to low performance GPU and size of dataset.
 
