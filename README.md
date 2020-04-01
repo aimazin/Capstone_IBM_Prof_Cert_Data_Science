@@ -12,4 +12,4 @@ may stall indefinately due to low performance GPU and size of dataset.
 
 ## Licence
 
-I authorise to use this code in good will, only :)
+I authorise this code for good will, only :)
