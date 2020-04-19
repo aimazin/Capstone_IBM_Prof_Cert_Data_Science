@@ -1,10 +1,20 @@
 # Capstone_IBM_Prof_Cert_Data_Science
 
-final project of capstone where a classification model for the most frequent complaints in the NYC 311 Complaints dataset.
+## Table of Content
+
+Q4.ipynb
 
 ## Installation
 
 I highly recommend you have a Nvidia or other high performance GPU.
+
+## Project Motivation
+
+final project of capstone where a classification model for the most frequent complaints in the NYC 311 Complaints dataset.
+
+## Result
+ 
+hit the absolutue classification limit
 
 ## Issues
 
