@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-Q4nb4.ipynb
+- Q4nb4.ipynb
+- Q4nb4.html
 
 ## Installation
 
@@ -14,7 +15,8 @@ final project of capstone where a classification model for the most frequent com
 
 ## File Description
 
-**Q4nb4.ipynb** -final analysis code
+- **Q4nb4.ipynb**: Jupyter notebook of python final analysis 
+- **Q4nb4.html**:  HTML version of notebook
 
 ## Result
  
