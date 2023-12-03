@@ -28,6 +28,7 @@ ingestion of dataset from site may take a while +5 min.
 
 may stall indefinately due to low performance GPU and size of dataset.
 
-## Licence
+## License
 
-I authorise this code for good will, only :)
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
